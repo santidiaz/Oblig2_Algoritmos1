@@ -6,6 +6,7 @@
 // Inicialización de los atributos
 InterfazDelSistemaImp::InterfazDelSistemaImp(unsigned int CANT_SENSORES, unsigned int MAX_ESTADOS)
 {
+	//EGuren!
 
 	//VAMOO EL GIT!!
 	//NO IMPLEMENTADO	
